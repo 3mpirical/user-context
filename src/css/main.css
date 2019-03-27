@@ -6,7 +6,7 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 75%;
 }
 
 body {
@@ -109,7 +109,7 @@ div.user-card {
     padding: 2rem;
     border: 1px solid white;
     border-radius: 10px;
-    width: 35%;
+    width: 40%;
     min-width: 35rem;
     min-height: 40rem;
     margin: 4rem auto;
@@ -125,7 +125,7 @@ div.user-card p {
 }
 
 .lakes-container {
-    width: 35%;
+    width: 40%;
     min-width: 35rem;
     background-color: rgba(0,0,0,0.8);
     margin: 0 auto;
